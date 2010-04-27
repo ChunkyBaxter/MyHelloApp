@@ -1,0 +1,196 @@
+TmyHelloApp
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/johnwesp/Library/MobileDevice/Provisioning Profiles/9816A133-39A7-4C99-ACCD-441CDA3A0030.mobileprovision
+c000000004BD58B010000000000001BFD
+t1272285953
+s7165
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.h
+c000000004BD6135000000000000001EE
+t1272320848
+s494
+i<UIKit/UIKit.h>
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m
+c000000004BD6135000000000000002AF
+t1272320848
+s687
+i"myHelloAppAppDelegate.h"
+i"myHelloAppViewController.h"
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.h
+c000000004BD6135000000000000000F4
+t1272320848
+s244
+i<UIKit/UIKit.h>
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m
+c000000004BD6135000000000000005C2
+t1272320848
+s1474
+i"myHelloAppViewController.h"
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib
+c000000004BD61350000000000000266D
+t1272320848
+s9837
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app.dSYM
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/Info.plist
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/MainWindow.nib
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/PkgInfo
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/ResourceRules.plist
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/myHelloApp
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/myHelloAppViewController.nib
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/Objects-normal/armv6/myHelloApp.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/Objects-normal/armv6/myHelloAppAppDelegate.o
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/Objects-normal/armv6/myHelloAppViewController.o
+t2
+s0
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m
+c000000004BD613500000000000000169
+t1272320848
+s361
+i<UIKit/UIKit.h>
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib
+c000000004BD613500000000000001A51
+t1272320848
+s6737
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloApp_Prefix.pch
+c000000004BD6135000000000000000BD
+t1272320848
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-fwqvxpawcxwmsnccrufstjeffbtd/myHelloApp_Prefix.pch.gch
+t1272320731
+s8388792
+
+NmyHelloApp-Info.plist
+c000000004BD61350000000000000038D
+t1272320848
+s909
+
+CCodeSign "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app"
+r0
+
+CCompileC build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/Objects-normal/armv6/main.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/Objects-normal/armv6/myHelloAppAppDelegate.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/Objects-normal/armv6/myHelloAppViewController.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib"
+r0
+
+CCpResource build/Debug-iphoneos/myHelloApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app.dSYM" "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/myHelloApp"
+r0
+
+CLd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/myHelloApp" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/Info.plist" myHelloApp-Info.plist
+r0
+
+CProcessPCH /var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-fwqvxpawcxwmsnccrufstjeffbtd/myHelloApp_Prefix.pch.gch myHelloApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/johnwesp/Library/MobileDevice/Provisioning Profiles/9816A133-39A7-4C99-ACCD-441CDA3A0030.mobileprovision" "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphoneos/myHelloApp.build/myHelloApp.xcent"
+r0
+
+CTouch "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphoneos/myHelloApp.app"
+r0
+

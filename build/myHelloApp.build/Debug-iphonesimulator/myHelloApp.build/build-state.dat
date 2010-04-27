@@ -1,0 +1,256 @@
+TmyHelloApp
+v7
+r0
+t294027024.885991
+cCheck dependencies
+cProcessInfoPlistFile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/Info.plist" myHelloApp-Info.plist
+cCompileXIB "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib"
+cCompileXIB "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib"
+cProcessPCH /var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch.gch myHelloApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/main.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppAppDelegate.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppViewController.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp" normal i386
+cGenerateDSYMFile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app.dSYM" "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp"
+cTouch "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.h
+c000000004BD6135000000000000001EE
+t1272320848
+s494
+i<UIKit/UIKit.h>
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m
+c000000004BD6135000000000000002AF
+t1272320848
+s687
+i"myHelloAppAppDelegate.h"
+i"myHelloAppViewController.h"
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.h
+c000000004BD6461000000000000001C1
+t1272333840
+s449
+i<UIKit/UIKit.h>
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m
+c000000004BD6472D0000000000000665
+t1272334125
+s1637
+i"myHelloAppViewController.h"
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib
+c000000004BD61350000000000000266D
+t1272320848
+s9837
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app
+t1272334224
+s238
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app.dSYM
+t1272334224
+s102
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/Info.plist
+t1272320890
+s605
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/MainWindow.nib
+t1272320891
+s1516
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/PkgInfo
+t1272320890
+s8
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp
+t1272334224
+s20388
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloAppViewController.nib
+t1272334224
+s3511
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/main.o
+t1272320891
+s6008
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloApp.LinkFileList
+c000000004BD6137A00000000000001FF
+t1272320890
+s511
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppAppDelegate.o
+t1272334224
+s38328
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppViewController.o
+t1272334224
+s32584
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m
+c000000004BD613500000000000000169
+t1272320848
+s361
+i<UIKit/UIKit.h>
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib
+c000000004BD645630000000000005DDC
+t1272333667
+s24028
+
+N/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloApp_Prefix.pch
+c000000004BD6135000000000000000BD
+t1272320848
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch.gch
+t1272320891
+s13026768
+
+NmyHelloApp-Info.plist
+c000000004BD61350000000000000038D
+t1272320848
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294027024#294027024#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/main.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294013691.668849
+e294013691.729244
+r1
+xCompileC
+xbuild/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/main.o
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m294013691#294013691#0(0"0(0#0#75"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m4300911832#2333"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-generated-files.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-own-target-headers.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-all-target-headers.hmap" -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-project-headers.hmap" "-F/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/include" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources/i386" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources" -include /var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch -c "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/main.m" -o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppAppDelegate.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294027024.704977
+e294027024.798725
+r1
+xCompileC
+xbuild/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppAppDelegate.o
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m294027024#294027024#0(0"0(0#0#100"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m4300911832#2375"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-generated-files.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-own-target-headers.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-all-target-headers.hmap" -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-project-headers.hmap" "-F/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/include" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources/i386" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources" -include /var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch -c "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppAppDelegate.m" -o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppAppDelegate.o"0#
+
+CCompileC build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppViewController.o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294027024.705903
+e294027024.853852
+r1
+xCompileC
+xbuild/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppViewController.o
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m294027024#294027024#0(0"0(0#0#103"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m4300911832#2381"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-generated-files.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-own-target-headers.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-all-target-headers.hmap" -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-project-headers.hmap" "-F/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/include" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources/i386" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources" -include /var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch -c "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/Classes/myHelloAppViewController.m" -o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloAppViewController.o"0#
+
+CCompileXIB "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib"
+s294013690.811223
+e294013691.098373
+r1
+xCompileXIB
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294013690#294013691#0(0"0(0#0#83"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib4300911832#643"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/MainWindow.nib" "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/MainWindow.xib"0#
+
+CCompileXIB "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib"
+s294027024.376789
+e294027024.704631
+r1
+xCompileXIB
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib
+lSLF07#2@39"CompileXIB myHelloAppViewController.xib294027024#294027024#0(0"0(0#0#97"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib4300911832#671"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloAppViewController.nib" "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloAppViewController.xib"0#
+
+CGenerateDSYMFile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app.dSYM" "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp"
+s294027024.871431
+e294027024.883696
+r1
+xGenerateDSYMFile
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app.dSYM
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/myHelloApp.app.dSYM build/Debug-iphonesimulator/myHelloApp.app/myHelloApp294027024#294027024#0(0"0(0#0#122"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp4300911832#550"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp" -o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app.dSYM"0#
+
+CLd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp" normal i386
+s294027024.853937
+e294027024.871336
+r1
+xLd
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp
+xnormal
+xi386
+lSLF07#2@127"Link /Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp294027024#294027024#0(0"0(0#0#0"4300911832#1101"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator" "-F/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator" -filelist "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/Objects-normal/i386/myHelloApp.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/myHelloApp"0#
+
+CProcessInfoPlistFile "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/Info.plist" myHelloApp-Info.plist
+s294013690.805143
+e294013690.811089
+r1
+xProcessInfoPlistFile
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/Info.plist
+xmyHelloApp-Info.plist
+lSLF07#2@29"Process myHelloApp-Info.plist294013690#294013690#0(0"0(0#0#90"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloApp-Info.plist5794198075801433088#646"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility myHelloApp-Info.plist -genpkginfo "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app/Info.plist"0#
+
+CProcessPCH /var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch.gch myHelloApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294013691.098517
+e294013691.668744
+r1
+xProcessPCH
+x/var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch.gch
+xmyHelloApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile myHelloApp_Prefix.pch294013691#294013691#0(0"0(0#0#90"/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloApp_Prefix.pch4300911832#2190"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-generated-files.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-own-target-headers.hmap" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-all-target-headers.hmap" -iquote "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/myHelloApp-project-headers.hmap" "-F/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/include" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources/i386" "-I/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/myHelloApp.build/Debug-iphonesimulator/myHelloApp.build/DerivedSources" -c "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/myHelloApp_Prefix.pch" -o /var/folders/cC/cCa2hHnoHIW6hnEOn8WzQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myHelloApp_Prefix-clwwkktujegqmudzvrrgyzzmuqnx/myHelloApp_Prefix.pch.gch0#
+
+CTouch "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app"
+s294027024.883778
+e294027024.885964
+r1
+xTouch
+x/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app
+lSLF07#2@117"Touch /Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app294027024#294027024#0(0"0(0#0#0"4300911832#407"    cd "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/johnwesp/Projects/ChunkyBaxters iPhone Development/myHelloApp/build/Debug-iphonesimulator/myHelloApp.app"0#
+
